@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-22T13:05:52Z" name="Suite" finished-at="2023-03-22T13:07:13Z" duration-ms="80949">
+    <groups>
+    </groups>
+    <test started-at="2023-03-22T13:05:52Z" name="Test" finished-at="2023-03-22T13:07:13Z" duration-ms="80949">
+      <class name="docker.Docker_setup">
+        <test-method is-config="true" signature="dockerStart()[pri:0, instance:docker.Docker_setup@35d6ca49]" started-at="2023-03-22T18:35:37Z" name="dockerStart" finished-at="2023-03-22T18:35:52Z" duration-ms="15045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dockerStart -->
+        <test-method is-config="true" signature="dockerStop()[pri:0, instance:docker.Docker_setup@35d6ca49]" started-at="2023-03-22T18:37:13Z" name="dockerStop" finished-at="2023-03-22T18:37:18Z" duration-ms="5016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dockerStop -->
+      </class> <!-- docker.Docker_setup -->
+      <class name="docker.Docker2">
+        <test-method signature="validateAppNavBar()[pri:0, instance:docker.Docker2@1950e8a6]" started-at="2023-03-22T18:35:52Z" name="validateAppNavBar" finished-at="2023-03-22T18:36:33Z" duration-ms="41427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppNavBar -->
+      </class> <!-- docker.Docker2 -->
+      <class name="docker.Docker3">
+        <test-method signature="validateAppNavBar()[pri:0, instance:docker.Docker3@4cc76301]" started-at="2023-03-22T18:35:52Z" name="validateAppNavBar" finished-at="2023-03-22T18:37:13Z" duration-ms="80925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppNavBar -->
+      </class> <!-- docker.Docker3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

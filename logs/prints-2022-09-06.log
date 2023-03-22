@@ -1,0 +1,5 @@
+18:18:57.462 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Entered Verizon
+18:18:57.578 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Clicked on search button
+18:19:00.328 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Entered the product name  in search bar
+18:19:05.083 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - selected the product from search list
+18:19:05.412 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Printed th price details

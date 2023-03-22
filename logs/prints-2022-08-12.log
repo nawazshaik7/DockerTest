@@ -1,0 +1,5 @@
+15:24:17.684 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Entered the product name  in search bar
+15:24:19.638 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - selected the product from search list
+15:24:31.269 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Driver is initialized
+15:24:35.385 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Navigated to Home page
+15:24:35.388 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Entered Verizon

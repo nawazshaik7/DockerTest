@@ -1,0 +1,5 @@
+16:53:36.714 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Entered Verizon
+16:53:36.864 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Clicked on search button
+16:53:39.246 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Entered the product name  in search bar
+16:53:40.776 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - selected the product from search list
+16:53:52.849 [main] INFO  Academy.SearchForProductInVerizonAndSelectIt - Driver is initialized
